@@ -4,5 +4,6 @@ public class HelloWorld {
     }
 public void m1(){
 	System.out.println("Add M1");
+System.out.println("Add M3");
 }
 }
